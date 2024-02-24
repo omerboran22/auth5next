@@ -43,7 +43,7 @@ function LoginForm({}: Props) {
       headerLabel="Hoş Geldiniz"
       backButtonlabel="Hesabınız Yok mu ?"
       backButtonHref="/auth/register"
-      showSocial={true}
+      showSocial={false}
     >
       <Form {...form}>
         <form onSubmit={form.handleSubmit(onSubmit)} className="space-y-6">

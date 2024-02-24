@@ -5,7 +5,7 @@ This project is being developed with NextAuth v5.
 
 
 
-## Login Screen Shoot
+## Login Screen Shot
 
 ![app login screen](./public/login-screen.png)
 
